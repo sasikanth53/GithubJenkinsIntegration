@@ -1,3 +1,2 @@
-echo "Hello, How are you Madhuri?"
-echo "I am good Thank you!"
-echo "Inkenti Sangatulu!"
+echo "This is GITHUB and Jenkins Integration"
+echo "Looks Cool!"
